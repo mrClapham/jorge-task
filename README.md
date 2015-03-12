@@ -21,18 +21,18 @@ Clone the Git repository using the command line.
 $ git clone https://github.com/mrClapham/jorge-task.git
 
 ```
-or possibly 
+...or possibly
 
 ```
 $ git clone git@github.com:mrClapham/jorge-task.git
 
 ```
 
-depending on your firewall setup. 
+...depending on your firewall setup.
 
 You may also need to add 'sudo' to the beginning if you are on a Mac to allow you to execute as an administrator.
 
-Once the repository has cloned  use the command line navigate to the directory by typing 
+Once the repository has cloned  use the command line to navigate to the directory by typing
 
 ```
 cd jorge-task
