@@ -1,0 +1,27 @@
+{
+  "name": "jorge-task",
+  "version": "1.0.0",
+  "description": "TR code task.",
+  "main": "index.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrClapham/jorge-task"
+  },
+  "keywords": [
+    "Canvas",
+    "HTML5"
+  ],
+  "author": "Graham Clapham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrClapham/jorge-task/issues"
+  },
+  "homepage": "https://github.com/mrClapham/jorge-task",
+  "dependencies": {
+    "express": "^4.11.0"
+  },
+  "devDependencies": {
+
+  }
+}
