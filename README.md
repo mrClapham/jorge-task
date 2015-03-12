@@ -13,7 +13,7 @@ This task may be undertaken on Windows, Mac or Linux - it will not make a differ
 
 Node and Node Package Manager (npm) which you can get from [https://nodejs.org/](https://nodejs.org/) 
 
-####Installing
+####Installing the task files
 
 Clone the Git repository using the command line. 
 
@@ -51,7 +51,7 @@ node server
 
 ```
 
-this should give you local server whan you open: [http://localhost:5002/](http://localhost:5002/) which serves up the index html file.
+this should give you local server when you open: [http://localhost:5002/](http://localhost:5002/) which serves up the index html file.
 
 ####Completing the task
 
