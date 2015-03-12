@@ -1,7 +1,9 @@
 # jorge-task
 
 
-We would like you to build an Autocomplete text field as per [http://jqueryui.com/autocomplete/](http://jqueryui.com/autocomplete/) but, preferably, implementing it yourself rather than using a library. 
+We would like you to build an Autocomplete text field as per [http://jqueryui.com/autocomplete/](http://jqueryui.com/autocomplete/) but, preferably, implementing it yourself rather than using a library as we would like to see how you approach the problem.
+
+Keyboard entry into the text-field should create a list countries which contain that partial string, eg: typing "Ang" would return  "Andorra",  "Angola",  "Anguilla", "Bangladesh" etc... Clicking on the country name will fill it in in the text-field.
 
 Use any web technology you like. The preference would be JavaScript. Make it look as attractive as possible but concentrate on functionality first.
 
